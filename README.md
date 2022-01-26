@@ -114,10 +114,10 @@ A partir de este comando se pueden borrar archivos pertenecientes al directorio 
 
 *Ilustración 15 Ejecución del comando git rm.* 
 
-4-Comproabación de instalación correcta 
+4-Comprobación de instalación correcta 
 ----------------------------------------
 
-Por último,se debe llevar a cabo que la comprobación que la instalación de Intellij, Maven y Java 17 se ha realizado correctamente. 
+Por último, se debe llevar a cabo que la comprobación que la instalación de Intellij, Maven y Java 17 se ha realizado correctamente. 
 
 ![image](https://user-images.githubusercontent.com/91118338/150641428-6896c738-82bf-4973-a7ca-548797f59269.png)
 
